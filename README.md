@@ -5,6 +5,9 @@
 Figma design - Use BEM and SCSS
 
 The design 1440px
+
 Desktop 1280px
+
 Tablet 640px
+
 Mobile (> 320px)
